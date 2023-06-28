@@ -1,4 +1,7 @@
 """
+This is based on Think Julia book by Ben Lauwens and Allen Downey
+- Chapter 4 Case Study: Interface Design
+
 Development Plan
 ----------------
  1. Write small program with no function definition
